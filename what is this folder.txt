@@ -1,0 +1,1 @@
+This folder has experiments file to run the calculations of MPI with feedback. Feedback and disturbance are optional. The variables given are the Omega calculated in 1st iteration, Omega calculated in 2nd iteration and Omega calculated in 2nd iteration when the omega from 1st iteration was reduced. 
